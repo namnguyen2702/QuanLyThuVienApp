@@ -1,2 +1,2 @@
 # QuanLyThuVienApp
-Quan ly hieu sach su dung java oop swing
+Quản lý hiệu sách sử dụng java OOP SWING và MySQL
