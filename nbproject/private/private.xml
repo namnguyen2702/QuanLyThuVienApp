@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="usb">
+            <file>file:/C:/Users/itool/OneDrive/Desktop/Subject/oop-java/code/BTCuoikiDemo/src/Controller/services.java</file>
+            <file>file:/C:/Users/itool/OneDrive/Desktop/Subject/oop-java/code/BTCuoikiDemo/src/Models/ICustomer.java</file>
+            <file>file:/C:/Users/itool/OneDrive/Desktop/Subject/oop-java/code/BTCuoikiDemo/src/DBconnect/Connect.java</file>
+            <file>file:/C:/Users/itool/OneDrive/Desktop/Subject/oop-java/code/BTCuoikiDemo/src/Models/People_QuanLy.java</file>
+            <file>file:/C:/Users/itool/OneDrive/Desktop/Subject/oop-java/code/BTCuoikiDemo/src/Models/IStaff.java</file>
+            <file>file:/C:/Users/itool/OneDrive/Desktop/Subject/oop-java/code/BTCuoikiDemo/src/Models/Model_Sach.java</file>
+            <file>file:/C:/Users/itool/OneDrive/Desktop/Subject/oop-java/code/BTCuoikiDemo/src/View/FrameLogin.java</file>
+            <file>file:/C:/Users/itool/OneDrive/Desktop/Subject/oop-java/code/BTCuoikiDemo/src/Controller/Run.java</file>
+            <file>file:/C:/Users/itool/OneDrive/Desktop/Subject/oop-java/code/BTCuoikiDemo/src/Controller/Message.java</file>
+            <file>file:/C:/Users/itool/OneDrive/Desktop/Subject/oop-java/code/BTCuoikiDemo/src/Models/IUser.java</file>
+            <file>file:/C:/Users/itool/OneDrive/Desktop/Subject/oop-java/code/BTCuoikiDemo/src/Models/People_User.java</file>
+        </group>
+        <group>
+            <file>file:/C:/Users/ADMIN/Desktop/quanlyhieusach/quanlyhieusach/project/src/Controller/Run.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/quanlyhieusach/quanlyhieusach/project/src/View/FrameLogin.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/quanlyhieusach/quanlyhieusach/project/src/Models/Model_Account.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/quanlyhieusach/quanlyhieusach/project/src/View/PanelUserInfo.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/quanlyhieusach/quanlyhieusach/project/src/Models/IManager.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/quanlyhieusach/quanlyhieusach/project/src/View/FrameGetBook.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/quanlyhieusach/quanlyhieusach/project/src/Models/IUser.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/quanlyhieusach/quanlyhieusach/project/src/Models/People_Khach.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/quanlyhieusach/quanlyhieusach/project/src/View/FrameMsg.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/quanlyhieusach/quanlyhieusach/project/src/Models/Model_Log.java</file>
+            <file>file:/C:/Users/ADMIN/Desktop/quanlyhieusach/quanlyhieusach/project/src/View/FrameMainMenuStaff.java</file>
+        </group>
+    </open-files>
+</project-private>
